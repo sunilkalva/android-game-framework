@@ -120,12 +120,12 @@ public interface Input {
     public float getAccelZ();
 
     /**
-     * Hold in KeyEvents
+     * Contains KeyEvents
      */
     public List<KeyEvent> getKeyEvents();
 
     /**
-     * Hold in TouchEvents
+     * Contains TouchEvents
      */
     public List<TouchEvent> getTouchEvents();
 }
