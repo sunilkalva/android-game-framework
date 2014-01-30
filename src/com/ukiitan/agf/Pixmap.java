@@ -1,6 +1,6 @@
-package com.ukiitan.androidgames.framework;
+package com.ukiitan.agf;
 
-import com.ukiitan.androidgames.framework.Graphics.PixmapFormat;
+import com.ukiitan.agf.Graphics.PixmapFormat;
 
 /**
  * Manage Images

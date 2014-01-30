@@ -1,4 +1,4 @@
-package com.ukiitan.androidgames.framework;
+package com.ukiitan.agf;
 
 /**
  * Can create Musics or Sounds

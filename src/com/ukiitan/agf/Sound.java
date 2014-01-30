@@ -1,4 +1,4 @@
-package com.ukiitan.androidgames.framework;
+package com.ukiitan.agf;
 
 /**
  * Manage a sound (short file fully loaded - easily to play it several times)

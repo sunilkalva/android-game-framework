@@ -1,4 +1,4 @@
-package com.ukiitan.androidgames.framework;
+package com.ukiitan.agf;
 
 import java.io.IOException;
 import java.io.InputStream;
